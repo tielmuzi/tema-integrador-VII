@@ -95,7 +95,10 @@ O projeto está alinhado aos **Objetivos de Desenvolvimento Sustentável (ODS)**
 ├── Relatório Protegix Público Geral.pdf                   # Relatório simplificado para comunidade
 ├── Portfólio do Projeto Integrador – Protegix.pdf         # Portfólio acadêmico com evidências
 ├── Tema Integrador VII - Artigo Segurança Digital.pdf     # Artigo científico do projeto
-└── Modelo apresentação GPA NEAD.pptx                      # Template de apresentação
+├── Tema Integrador VII - Seguraça Digital Protegix.pptx    # Vídeo de apresentação
+└── Protegix - Segurança Digital no Uso da Internet (respostas).xlsx # Coleta de dados
+├── Evidências UNIG Portas Abertas
+└── Gráficos
 ```
 
 ---
@@ -117,6 +120,7 @@ O portfólio contém registros fotográficos das atividades presenciais, incluin
 - Distribuição de materiais informativos (flyers, banners)
 - Demonstração do site/dashboard do projeto
 - Mascote "Guardião Digital" e brindes institucionais
+- Formulário On-line
 
 ---
 
@@ -164,7 +168,8 @@ Este projeto é de caráter **acadêmico e extensionista**, sem fins lucrativos.
 - 🌐 Site do projeto: [protegix.vercel.app](https://protegix.vercel.app)
 - 🎓 Universidade Iguaçu (UNIG): [www.unig.br](https://www.unig.br)
 - 📊 Cert.br: [https://cert.br](https://cert.br)
-
+- 📹 Vídeo de apresentação: [https://drive.google.com/file/d/1spA9oo7nmz5Ilox6HOAo4GETjBTOyTFP/view?usp=sharing] (https://drive.google.com/file/d/1spA9oo7nmz5Ilox6HOAo4GETjBTOyTFP/view?usp=drive_link)
+- 📝 Formulário on-line: [https://forms.gle/jbPT1msU8AjdNtnL9] (https://forms.gle/jbPT1msU8AjdNtnL9)
 ---
 
 > *"A segurança digital não é privilégio de especialistas, mas direito de todos os cidadãos. A missão do Protegix é tornar esse direito acessível, compreensível e exercitável – uma conexão segura de cada vez."*
