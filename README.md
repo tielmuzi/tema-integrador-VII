@@ -95,7 +95,7 @@ O projeto está alinhado aos **Objetivos de Desenvolvimento Sustentável (ODS)**
 ├── Relatório Protegix Público Geral.pdf                   # Relatório simplificado para comunidade
 ├── Portfólio do Projeto Integrador – Protegix.pdf         # Portfólio acadêmico com evidências
 ├── Tema Integrador VII - Artigo Segurança Digital.pdf     # Artigo científico do projeto
-├── Tema Integrador VII - Seguraça Digital Protegix.pptx    # Vídeo de apresentação
+├── Tema Integrador VII - Seguraça Digital Protegix.pptx   # Apresentação em PowerPoint
 └── Protegix - Segurança Digital no Uso da Internet (respostas).xlsx # Coleta de dados
 ├── Evidências UNIG Portas Abertas
 └── Gráficos
